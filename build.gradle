@@ -24,8 +24,13 @@ dependencies {
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.7.0" //Junit5 core
 }
 
-
-
 test {
     useJUnitPlatform()
 }
+// bot id
+// mBessudnov_bot
+// 1667434758:AAGFHD7mUyRytaw_qMVcFtDuBe_ZD9yQv4o
+
+// chat id
+// Test group
+// -1001461148396
